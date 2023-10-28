@@ -1,0 +1,159 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-image: url('/administrator/img/background.jpg');
+    background-position:top right,top left ;
+    background-repeat: no-repeat,no-repeat;
+    background-size: cover;
+   font-family: "Lato", sans-serif;
+
+    
+
+}
+
+form{
+  padding: 10px;  
+  
+}
+
+.row
+{
+  height: 100%
+}
+
+textarea{
+  resize: none;
+  width: 200px;
+  height: 80px;
+}
+
+input[type=text],textarea, select {
+  width: 100%;
+  padding: 8px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+ 
+ label{
+  text-align: left;
+ }
+
+
+
+
+#logo{
+    width: 250px;
+    height: 150px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+#tekst{
+    color: black;
+    
+    
+    font-size: 25px;
+    letter-spacing: 5px;
+    text-shadow: 1px 1px;
+}
+
+.container{
+    background: white;
+    margin:  0 auto; 
+    height: 100%;
+    
+    padding: 10px 60px 120px 60px;
+
+
+}
+
+#dugme
+{
+  color: black;
+}
+
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #0000ff;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    
+    border-color: #e7e7e7;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:  #0d0d0d;
+}
+
+.navbar-default .navbar-brand {
+    color: #0d0d0d;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #0000ff;
+    background-color: transparent;
+
+}
+
+
+
+.thumbnail{
+    
+    font-style: bold;
+    text-align: center;
+    position: relative;
+    border-color: black;
+}
+
+
+
+.btn{
+  border-style: groove;
+}
+
+
+
+
+}
+
+.text-right {
+    text-align: right;
+    color: #0000ff;
+}
+
+tr, td{
+  
+  padding: 5px;
+}
+
+button {
+  background-color: #0000ff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+Tue, 05 Apr 2022 18:25:12 +0200>>>		 Za naplatu: 1800 RSD, 		 Kolicina ulaznica: 2  		 ID Kupca: 10000 		 ID Dogadjaja: 104
+
+Tue, 05 Apr 2022 18:25:12 +0200>>>		 Za naplatu: 1400 RSD, 		 Kolicina ulaznica: 1  		 ID Kupca: 10000 		 ID Dogadjaja: 108
+
+Tue, 05 Apr 2022 18:25:12 +0200>>>		 Za naplatu: 1800 RSD, 		 Kolicina ulaznica: 3  		 ID Kupca: 10000 		 ID Dogadjaja: 109
+
+Tue, 05 Apr 2022 18:27:47 +0200>>>		 Za naplatu: 7200 RSD, 		 Kolicina ulaznica: 12  		 ID Kupca: 10000 		 ID Dogadjaja: 109
+
+Tue, 05 Apr 2022 18:29:46 +0200>>>		 Za naplatu: 1800 RSD, 		 Kolicina ulaznica: 3  		 ID Kupca: 10000 		 ID Dogadjaja: 109
+
+Tue, 05 Apr 2022 18:49:15 +0200>>>		 Za naplatu: 1800 RSD, 		 Kolicina ulaznica: 2  		 ID Kupca: 10004 		 ID Dogadjaja: 104
+
+Tue, 05 Apr 2022 18:49:15 +0200>>>		 Za naplatu: 4200 RSD, 		 Kolicina ulaznica: 3  		 ID Kupca: 10004 		 ID Dogadjaja: 108
+
+Wed, 06 Apr 2022 19:56:18 +0200>>>		 Za naplatu: 900 RSD, 		 Kolicina ulaznica: 1  		 ID Kupca: 10000 		 ID Dogadjaja: 104
+
+Wed, 06 Apr 2022 19:56:18 +0200>>>		 Za naplatu: 1400 RSD, 		 Kolicina ulaznica: 1  		 ID Kupca: 10000 		 ID Dogadjaja: 108
+
+Wed, 06 Apr 2022 19:56:18 +0200>>>		 Za naplatu: 1800 RSD, 		 Kolicina ulaznica: 3  		 ID Kupca: 10000 		 ID Dogadjaja: 109
+
